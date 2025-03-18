@@ -1,10 +1,18 @@
-## Olá! Eu sou o Henrique Guimarães 🖐️
+## Hello! I'm Henrique Guimarães 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-m-guimaraes/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://anteteguemon.itch.io/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marangonihenrique@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marangonihenrique@gmail.com)
 
-## Tecnologias que eu uso no meu dia
+### I'm a Fullstack Developer passionate about technology 🚀
+
+I love building web applications with cutting-edge technologies. Always learning, always improving! 🔥
+
+I specialize in building scalable and efficient web applications using **React**, **Angular**, **Node.js**, and **.NET**. I am also exploring game development with **Unity**! 🎮
+
+I'm a problem solver, always focused on delivering quality and innovative solutions.
+
+## Technologies I use daily
 
 <div style="display: inline_block">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -22,3 +30,7 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HenriqueMG2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HenriqueMG2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMG2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
